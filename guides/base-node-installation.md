@@ -36,3 +36,14 @@ sudo ufw enable
 ```bash
 sudo ufw status
 ```
+## Install Docker Compose
+
+```bash
+sudo apt install docker-compose -y
+```
+
+## Verify Docker Compose
+
+```bash
+docker-compose --version
+```
