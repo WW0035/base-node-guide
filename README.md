@@ -18,3 +18,11 @@ Step-by-step guides for running nodes in the Base ecosystem.
 ## Goal
 
 This repository helps beginners run Base ecosystem nodes easily.
+## Features
+
+- Beginner friendly
+- Step-by-step tutorials
+- VPS setup
+- Docker installation
+- Node monitoring
+- Security recommendations
