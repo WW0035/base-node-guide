@@ -17,3 +17,4 @@ sudo lsof -i -P -n
 ```
 
 This command lists active ports and running services.
+ 
