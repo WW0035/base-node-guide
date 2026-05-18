@@ -26,3 +26,17 @@ This repository helps beginners run Base ecosystem nodes easily.
 - Docker installation
 - Node monitoring
 - Security recommendations
+## Repository Structure
+
+- guides/
+- scripts/
+- .github/
+
+## Included Topics
+
+- VPS setup
+- Docker
+- Firewall
+- Monitoring
+- Troubleshooting
+- Security
