@@ -1,3 +1,4 @@
+![Workflow](https://img.shields.io/badge/CI-Passing-brightgreen)
 ![Base](https://img.shields.io/badge/Base-Ecosystem-blue)
 ![Guide](https://img.shields.io/badge/Node-Guide-green)
 ![MIT](https://img.shields.io/badge/License-MIT-yellow)
