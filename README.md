@@ -49,3 +49,9 @@ This repository helps beginners run Base ecosystem nodes easily.
 - Automated backups
 - Firewall protection
 - GitHub Actions workflow
+- ## Releases
+
+Current version:
+
+```text
+v1.0.0
