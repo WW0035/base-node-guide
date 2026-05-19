@@ -55,3 +55,6 @@ Current version:
 
 ```text
 v1.0.0
+## Community
+
+Contributions and suggestions are welcome.
