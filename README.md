@@ -41,3 +41,11 @@ This repository helps beginners run Base ecosystem nodes easily.
 - Monitoring
 - Troubleshooting
 - Security
+- ## Advanced Features
+
+- Prometheus monitoring
+- Grafana dashboards
+- Nginx reverse proxy
+- Automated backups
+- Firewall protection
+- GitHub Actions workflow
